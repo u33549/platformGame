@@ -1,0 +1,39 @@
+#board {
+    width: 100vw;
+    height: 100vh;
+    background-color: #41dcfd;
+    border: none;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    /*border: 10px solid cyan;*/
+
+}
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+/*
+.final {
+    width: 80vw;
+    height: 40vh;
+    background-color: rgba(42, 42, 42, 0.5);
+    position: absolute;
+    left: 9vw;
+    top: 28vh;
+    z-index: 0;
+    display: none;
+}
+
+
+
+#restart {
+    font-size: 24px;
+    width: 40%;
+    height: 40%
+
+}*/
